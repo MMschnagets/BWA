@@ -4,3 +4,9 @@ instance/*
 .webassets-cache
 .env
 
+/.idea/.gitignore
+/.idea/BWA.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
